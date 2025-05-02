@@ -1,22 +1,66 @@
 <h1 align="center">Hi 👋, I'm Suvajit Ghosh</h1>
-<h3 align="center">"BCA Student with Expertise in Web Development and Algorithm"</h3>
+<h3 align="center">🚀 Final-year BCA Student | 💻 Web Developer | 🧠 Problem Solver </h3>
 
-- My 1st project [Bubble Sort Visualizer](https://suvajitghoshbca.github.io/Bubble-Sort-Visualizer/)
-
-- My 2nd project [To-Do List](https://suvajitghoshbca.github.io/To-Do-List/)
-
-- My 3rd project [Image Search Engine](https://suvajitghoshbca.github.io/Image-Search-Engine/)
-
-- 📫 How to reach me **suvajitghosh344@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suvajitghosh2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvajitghosh2024/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suvajitghosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suvajitghosh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suvajitghosh344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvajitghosh344" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suvajitghosh344/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suvajitghosh344/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/suvajitg3g94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suvajitg3g94/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suvajitghosh2004&label=Profile%20views&color=0e75b6&style=flat" alt="Suvajitghosh2004" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 I'm a final-year **Bachelor of Computer Applications** (BCA) student  
+- 💡 Passionate about building modern, user-friendly web apps  
+- 🧩 Enjoy solving **data structure and algorithm** problems  
+- 🌱 Currently learning **ReactJS**, **Node.js**, and **MongoDB**  
+- 📫 Reach me at **suvajitghosh2004@gmail.com**
+
+---
+
+### 🔧 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔵 Bubble Sort Visualizer](https://github.com/Suvajitghosh2004/BubbleSort-Visualizer) | A web-based tool to visualize bubble sort in action | HTML, CSS, JS |
+| [📝 To-Do List](https://github.com/Suvajitghosh2004/ToDo-list) | Simple and effective task tracker | HTML, CSS, JS |
+| [🔍 Image Search Engine](https://github.com/Suvajitghosh2004/Image-Search-Engine) | A frontend image search using the Unsplash API | HTML, CSS, JS |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suvajitghosh2004&show_icons=true&theme=radical" alt="stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suvajitghosh2004&theme=radical" alt="streak" width="400"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/suvajitghosh2004/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:suvajitghosh2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile! If you like my work, consider giving a star to my repositories!*
