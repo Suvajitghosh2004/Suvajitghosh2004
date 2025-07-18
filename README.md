@@ -1,141 +1,85 @@
 <h1 align="center">🪙 Suvajit Ghosh</h1>
-<h3 align="center">Full Stack Developer | JavaScript Enthusiast | MERN Stack Wizard</h3>
+<h3 align="center">MERN Stack Developer | BCA Graduate</h3>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suvajitghosh2024&label=Visitors&color=blue&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/suvajitghosh2024?label=Follow&style=social" alt="followers"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Suvajit+Ghosh+👋;MERN+Stack+Developer;BCA Graduate" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
-Hi! I’m **Suvajit**, a passionate developer building responsive web apps using **MongoDB, Express, React, and Node.js**.
+I'm a self-taught **Full Stack JavaScript Developer** who builds responsive web apps with a clean UI and optimized backend. I enjoy crafting meaningful software that solves real-world problems using the **MERN Stack (MongoDB, Express, React, Node.js)**.
 
-I specialize in:
-- Creating seamless user experiences 🌐  
-- Writing clean and scalable code 📦  
-- Continuously learning & exploring tech 💡  
-
----
-
-## 🔥 My Tech Arsenal
-
-### 💻 Languages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+🧩 I love learning, building, and collaborating on exciting ideas.
 
 ---
 
 ## 🚀 Featured Projects
 
-| 💡 Project | 🔗 Live | 🧪 Tech |
-|-----------|--------|---------|
-| 🎈 **Bubble Sort Visualizer** | [Demo](https://tinyurl.com/yln5yzaq) | HTML, CSS, JS |
-| 🧮 **Calculator** | [Demo](https://tinyurl.com/ymj5khyk) | HTML, CSS, JS |
-| ✅ **To-Do List** | [Demo](https://tinyurl.com/ysa4zstj) | HTML, CSS, JS |
-| 🖼️ **Free Image Search** | [Demo](https://tinyurl.com/yk7wyttz) | HTML, CSS, JS |
-| 🌦️ **Weather App** | [Demo](https://tinyurl.com/yr9rhddu) | HTML, CSS, JS |
-| 🪙 **Coin Flip Game** | [Demo](https://tinyurl.com/yvz9ttc8) | Tailwind CSS, JS |
+Here’s a showcase of my projects — interactive, creative, and crafted with passion:
 
-> ⚙️ More React and MERN apps coming soon!
+| 💡 Project | 🔗 Live Demo | 🧪 Tech Stack |
+|-----------|--------------|---------------|
+| 🎈 **Bubble Sort Visualizer** | [Live](https://tinyurl.com/yln5yzaq) | `HTML`, `CSS`, `JavaScript` |
+| 🧮 **Calculator App** | [Live](https://tinyurl.com/ymj5khyk) | `HTML`, `CSS`, `JavaScript` |
+| ✅ **To-Do List** | [Live](https://tinyurl.com/ysa4zstj) | `HTML`, `CSS`, `JavaScript` |
+| 🖼️ **Free Image Search** | [Live](https://tinyurl.com/yk7wyttz) | `HTML`, `CSS`, `JavaScript` |
+| 🌤️ **Weather App** | [Live](https://tinyurl.com/yr9rhddu) | `HTML`, `CSS`, `JavaScript` |
+| 🪙 **Coin Flip Game** | [Live](https://tinyurl.com/yvz9ttc8) | `HTML`, `Tailwind CSS`, `JavaScript` |
 
----
-
-## 🎯 Goals for 2025
-
-- 🔁 Build 10+ real-world MERN projects  
-- 🧠 Contribute to open-source regularly  
-- 🌐 Launch my personal portfolio website  
-- 📚 Master advanced React patterns  
-- 💼 Land an internship or freelance projects  
+> 🔧 More projects with React, MongoDB, and APIs coming soon!
 
 ---
 
-## 📌 Pinned Repositories
+## 🧰 Tech Stack & Tools
 
-Check out some of my favorite projects:
+### 💻 Languages, Libraries & Frameworks
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suvajitghosh2024&repo=bubble-sort-visualizer&theme=tokyonight&hide_border=true)](https://github.com/suvajitghosh2024/bubble-sort-visualizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suvajitghosh2024&repo=coin-flipping-app&theme=tokyonight&hide_border=true)](https://github.com/suvajitghosh2024/coin-flipping-app)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat&logo=tailwind-css)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual-studio-code)
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 What I Offer
+
+✔️ **Pixel-perfect Frontend**  
+✔️ **Optimized, scalable Backends**  
+✔️ **REST API Integration**  
+✔️ **Component-based Architecture**  
+✔️ **Dark/light themes**  
+✔️ **State management (coming soon in React projects)**  
+
+---
+
+
+## 📫 Let’s Connect
+
+- 📧 **Email**: [suvajitghosh344@gmail.com](mailto:suvajitghosh344@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/suvajitghosh2024](https://www.linkedin.com/in/suvajitghosh2024)  
+- 🐙 **GitHub**: [github.com/suvajitghosh2024](https://github.com/suvajitghosh2024)
+
+---
+
+## 🧠 Quote I Live By
+
+> _“First, solve the problem. Then, write the code.”_  
+> — **John Johnson**
+
+---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=suvajitghosh2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=suvajitghosh2024&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvajitghosh2024&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ⏳ Currently Learning
-
-- ⚛️ Advanced React (Hooks, Context, Redux)
-- 📘 TypeScript for large-scale applications
-- ☁️ Cloud deployment with Vercel & Render
-- 🛡️ JWT Authentication & Security Best Practices
-
----
-
-## 🏆 Achievements
-
-- 🧠 **Self-taught** JavaScript Developer
-- 🎓 **BCA Graduate** (Bachelor of Computer Applications)
-- 🚀 Built 6+ mini projects solo
-- 🏗️ Building a personal **portfolio website**
-- 💡 Active on GitHub & LinkedIn
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: [suvajitghosh344@gmail.com](mailto:suvajitghosh344@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/suvajitghosh2024](https://www.linkedin.com/in/suvajitghosh2024)  
-- 🐙 GitHub: [github.com/suvajitghosh2024](https://github.com/suvajitghosh2024)
-
----
-
-## 💬 Quote I Live By
-
-<p align="center">
-  <i>“First, solve the problem. Then, write the code.”</i><br>
-  — <strong>John Johnson</strong>
-</p>
-
----
-
-## 👑 Let’s Build Something Great!
-
-<p align="center">
-  If you're looking for a dedicated developer or collaborator on your next project, <br> let's connect and make something awesome!
-</p>
-
-<p align="center">
-  <a href="https://github.com/suvajitghosh2024">
-    <img src="https://img.shields.io/badge/GitHub--blue?style=social&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/suvajitghosh2024/">
-    <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" />
-  </a>
-  <a href="mailto:suvajitghosh344@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail" />
-  </a>
+  <b>⭐ Thanks for visiting! Let’s build something awesome together.</b>
 </p>
