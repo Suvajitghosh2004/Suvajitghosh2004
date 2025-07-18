@@ -58,7 +58,6 @@
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)  
 ![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visual-studio-code)  
-![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma)
 
 ---
 
@@ -87,7 +86,7 @@
 
 - 📧 **Email:** [suvajitghosh344@gmail.com](mailto:suvajitghosh344@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/suvajitghosh2024](https://www.linkedin.com/in/suvajitghosh2024)  
-- 🐙 **GitHub:** [github.com/suvajitghosh2004](https://github.com/suvajitghosh2024)
+- 🐙 **GitHub:** [github.com/suvajitghosh2004](https://github.com/suvajitghosh2004)
 
 ---
 
@@ -100,10 +99,10 @@
 
 <p align="center">
   <strong>⭐ Thanks for stopping by! Let's build something amazing together.</strong><br/><br/>
-  <a href="https://github.com/suvajitghosh2024">
+<!--   <a href="https://github.com/suvajitghosh2024">
     <img src="https://img.shields.io/github/followers/suvajitghosh2024?style=social" />
   </a>
-  &nbsp;
+  &nbsp; -->
   <a href="https://www.linkedin.com/in/suvajitghosh2024/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
