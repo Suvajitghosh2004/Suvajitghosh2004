@@ -81,26 +81,6 @@ Here’s a curated list of my web apps 👇
 
 ---
 
-## 📌 Pinned Repositories
-
-[![Bubble Sort](https://github-readme-stats.vercel.app/api/pin/?username=suvajitghosh2024&repo=bubble-sort-visualizer&theme=tokyonight&hide_border=true)](https://github.com/suvajitghosh2024/bubble-sort-visualizer)
-[![Coin Flip Game](https://github-readme-stats.vercel.app/api/pin/?username=suvajitghosh2024&repo=coin-flipping-app&theme=tokyonight&hide_border=true)](https://github.com/suvajitghosh2024/coin-flipping-app)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=suvajitghosh2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=suvajitghosh2024&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvajitghosh2024&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 - 📧 **Email:** [suvajitghosh344@gmail.com](mailto:suvajitghosh344@gmail.com)  
