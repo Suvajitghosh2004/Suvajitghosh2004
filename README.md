@@ -1,5 +1,5 @@
 <h1 align="center">🪙 Suvajit Ghosh</h1>
-<h3 align="center">Full Stack MERN Developer | BCA Graduate</h3>
+<h3 align="center">Full Stack Developer With MERN | BCA Graduate</h3>
 
 ---
 
@@ -16,11 +16,17 @@
 
 ## 🧠 About Me
 
-I’m a self-taught **Full Stack JavaScript Developer** focused on crafting scalable apps with clean UI and robust backend logic. I work primarily with the **MERN Stack (MongoDB, Express, React, Node.js)**.
+I’m a self-taught Full Stack Developer with a strong focus on building scalable, high-performance web applications. My expertise lies in the MERN Stack (MongoDB, Express.js, React.js, Node.js) — enabling me to craft seamless front-end interfaces backed by efficient and reliable server-side logic.
 
-🚀 Passionate about building impactful software  
-🌱 Constantly learning new tools and frameworks  
-🤝 Open to collaboration and freelance opportunities
+💡 I thrive on solving real-world problems through code, designing user-centric experiences, and continuously refining my craft.
+
+🚀 Driven by impact: I love creating solutions that make a difference
+
+🌱 Lifelong learner: Always exploring new tools, libraries, and best practices
+
+🤝 Team player: Open to remote work, collaborations, and freelance opportunities
+
+
 
 ---
 
@@ -85,7 +91,7 @@ Here’s a curated list of my web apps 👇
 
 - 📧 **Email:** [suvajitghosh344@gmail.com](mailto:suvajitghosh344@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/suvajitghosh2024](https://www.linkedin.com/in/suvajitghosh2024)  
-- 🐙 **GitHub:** [github.com/suvajitghosh2024](https://github.com/suvajitghosh2024)
+- 🐙 **GitHub:** [github.com/suvajitghosh2004](https://github.com/suvajitghosh2004)
 
 ---
 
