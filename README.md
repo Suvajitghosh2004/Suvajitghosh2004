@@ -14,12 +14,12 @@ Hi! I'm **Suvajit Ghosh**, a full-stack JavaScript developer passionate about cl
 
 | # | Project Title | Live Link | Stack |
 |--:|---------------|-----------|-------|
-| 1 | **Coin Flip App** | [🪙 Flip Now](https://tinyurl.com/yln5yzaq) | HTML, Tailwind CSS, JS |
-| 2 | **Responsive Blog Website** | [📖 View Project](https://tinyurl.com/ymj5khyk) | HTML, CSS |
-| 3 | **Tic Tac Toe Game** | [🎮 Play Now](https://tinyurl.com/ysa4zstj) | HTML, CSS, JS |
-| 4 | **Netflix Clone UI** | [🎬 Explore](https://tinyurl.com/yk7wyttz) | HTML, CSS |
-| 5 | **Random Password Generator** | [🔐 Try It](https://tinyurl.com/yr9rhddu) | HTML, CSS, JS |
-| 6 | **Basic Portfolio Website** | [👤 Visit Site](https://tinyurl.com/yvz9ttc8) | HTML, CSS |
+| 1 | **Bubble Sort visualizer** | [🪙 Flip Now](https://tinyurl.com/yln5yzaq) | HTML, CSS, JS |
+| 2 | **Calculator** | [📖 View Project](https://tinyurl.com/ymj5khyk) | HTML, CSS, JS |
+| 3 | **To-Do-List** | [🎮 Play Now](https://tinyurl.com/ysa4zstj) | HTML, CSS, JS |
+| 4 | **Copy-Right-Free-Image-Search** | [🎬 Explore](https://tinyurl.com/yk7wyttz) | HTML, CSS, JS |
+| 5 | **Basic-Weather-App** | [🔐 Try It](https://tinyurl.com/yr9rhddu) | HTML, CSS, JS |
+| 6 | **Coin-Flipping-App** | [👤 Visit Site](https://tinyurl.com/yvz9ttc8) | HTML, Tailwind CSS, JS |
 
 > More projects coming soon...
 
