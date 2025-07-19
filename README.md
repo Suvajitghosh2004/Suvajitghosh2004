@@ -37,6 +37,7 @@
 | 🖼️ **Free Image Search** | [Live](https://tinyurl.com/yk7wyttz) | `HTML`, `CSS`, `JavaScript` |
 | 🌤️ **Weather App** | [Live](https://tinyurl.com/yr9rhddu) | `HTML`, `CSS`, `JavaScript` |
 | 🪙 **Coin Flip Game** | [Live](https://tinyurl.com/yvz9ttc8) | `HTML`, `Tailwind CSS`, `JavaScript` |
+| **Tic Tac Toe game**|[Live](https://tinyurl.com/2yvjyrow) |`HTML`, `Tailwind CSS`, `JavaScript` |
 
 > 🧪 *More interactive React + MERN projects coming soon!*
 
